@@ -22,4 +22,5 @@ git status
 (comprueba el estado de la rama)
 
 git remote add origin https://github.com/JoanBZN-DPP/Maquetado_WEB.git
-(añade la dirección de su repositorio se ejecuta una vez)
+(añade la dirección de su repositorio se ejecuta una vez) g
+.
