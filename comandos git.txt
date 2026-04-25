@@ -1,0 +1,25 @@
+git init"repositorio local"
+
+git config --local user.name "Joan"
+(configura el nombre de usuario localmente)
+
+git config --local user.email "bermudezjoanesteban@gmail.com"
+(configura el usuario asociado a GitHub)
+
+git branch -M main
+(cambiar nombre de la rama Master a Main)
+
+git add .
+(añde todos los archivos del repositorio)
+
+git commit -m "versión de subida"
+(es la versión que está subiendo al repositorio)
+
+git push -u origin main
+(empuja los cambios locales a la nube)
+
+git status
+(comprueba el estado de la rama)
+
+git remote add origin https://github.com/JoanBZN-DPP/Maquetado_WEB.git
+(añade la dirección de su repositorio se ejecuta una vez)
